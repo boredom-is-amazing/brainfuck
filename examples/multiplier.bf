@@ -1,3 +1,6 @@
+// This preserves the numbers in blocks 1 and 2,
+// then packs the result to be in block 3.
+
 // Initiate values - I have chosen 4 and 17 for this.
 // The pointer starts at block 1.
 ++++>+++++ +++++ +++++ ++<
